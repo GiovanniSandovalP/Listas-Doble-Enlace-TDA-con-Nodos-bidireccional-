@@ -1,1 +1,1 @@
-# Listas-Doble-Enlace-TDA-con-Nodos-bidireccional-
+# Lista Doble Enlazada — TDA con Nodos bidireccionales
